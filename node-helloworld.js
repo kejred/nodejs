@@ -1,2 +1,2 @@
-// Acomment added
+// A comment added
 console.log("Hello World");
