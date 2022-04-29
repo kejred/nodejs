@@ -1,5 +1,6 @@
 # nodejs
 # End each line with two spaces for line break like <BR>
+# End each line with two spaces for line break like <BR>  
 git init  
 git add README.md  
 git commit -m "first commit"  
